@@ -1,8 +1,8 @@
 <?php
 
 define('HOST', 'localhost');
-define('USER', 'JESSE_INVENT');
-define('PASSWORD', 'jc_invent');
+define('USER', 'root');
+define('PASSWORD', '');
 define('DATABASE', 'eLibrary');
 
 $link="http://localhost/ebook/";
